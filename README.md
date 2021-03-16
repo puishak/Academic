@@ -1,2 +1,2 @@
-# University
-Public repository to store all of my university assignments and projects
+# Academic
+Public repository to store all of my assignments and projects
